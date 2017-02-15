@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	<thead>
+	<th colspan="3"><span style="font-family: Arial;color: orange">A Grid of Photos</span></th>
+	</thead>
+	<td><a href="http://islandwavesnews.com/2017/02/go-big-for-valentines-day-spend-less/">
+	<img src="https://pbs.twimg.com/media/C4ojJROUkAEOavn.jpg"/></a>
+	</td>
+	<td><a href="http://islandwavesnews.com/2017/02/islanders-grind-out-fourth-straight-win/">
+	<img src="https://pbs.twimg.com/media/C4jooN1XAAE1nDv.jpg"/></a>
+	</td>
+	<td><a href="http://islandwavesnews.com/2017/02/islander-comeback-effort-falls-short/">
+	<img src="https://pbs.twimg.com/media/C4ji3mjUEAEr44k.jpg"/></a>
+	</td>
+	</tr>
+	<tr>
+	<td><a href="http://islandwavesnews.com/2017/02/high-school-students-compete-robots-for-first/">
+	<img src="https://pbs.twimg.com/media/C4T9xHvUMAI91Ij.jpg"/></a>
+	</td>
+	<td><a href="http://islandwavesnews.com/2017/02/gaming-in-2017-looks-to-level-up/">
+	<img src="https://pbs.twimg.com/media/C4RNiOZUcAAzrpH.jpg"/></a>
+	</td>
+	<td><a href="http://islandwavesnews.com/2017/01/president-obama-leaves-oval-office/">
+	<img src="https://pbs.twimg.com/media/C4B07H6VUAEFobe.jpg"/></a>
+	</td>
+	</tr>
+	<tr>
+	<td><a href="http://islandwavesnews.com/2016/11/university-says-farewell-to-its-beloved-president/">
+	<img src="https://pbs.twimg.com/media/C36fezrXUAUESV2.jpg:large"/></a>
+	</td>
+	<td><a href="http://islandwavesnews.com/2016/11/zta-raises-awareness-for-breast-cancer/">
+	<img src="https://pbs.twimg.com/media/C3ok5HMVcAAVjuo.jpg:large"/></a>
+	</td>
+	<td><a href="http://islandwavesnews.com/2016/08/pokemon-go-ing-out-of-style/">
+	<img src="https://pbs.twimg.com/media/C3mHMyUUYAATTO1.jpg:large"/></a>
+	</td>
+	</tr>
+	</table>
+	</body>
+</html>
