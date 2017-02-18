@@ -1,0 +1,44 @@
+div {
+    border-radius: 5px;
+    font-family: Times;
+}
+h3 {
+    text-align: center;
+}
+#header {
+    font-size: 12px;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    z-index: 1; 
+    margin-top: 2px;
+    
+}
+#footer {
+    border: 3px solid gray;
+    position: absolute:
+    height: -100px;
+    margin-bottom: -100px
+    width: 50px;
+    clear: both;
+    text-align: center;
+}
+.left {
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    float: left;
+    clear: both;
+    position: relative;
+    
+}
+.right {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 50px;
+    background-color: gray;
+    float: right;
+    clear: right;
+    position: relative;
+}
